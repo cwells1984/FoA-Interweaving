@@ -1,0 +1,7 @@
+This project contains the following files:
+input.csv - contains the set of S, X, and Y strings
+main.py - contains the program to find the m closest points in P
+
+The program can be run by simply running 'main.py' from your python console. The input can be customized by modifying
+the entries in input.csv (in the format "<S String>","<X String>","<Y String>". or changing the global variable
+INPUT_FILE in main.py to point at the input csv file of your choice.
